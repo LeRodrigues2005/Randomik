@@ -23,4 +23,6 @@ Enjoy playing!
 
 ## Folow me
 
+![image](https://github.com/LeRodrigues2005/Randomik/assets/97632543/820a3713-529f-4439-a031-36a89f609d6d)
 
+![instagram_simbolo](https://github.com/LeRodrigues2005/Randomik/assets/97632543/5b0403fc-1c0b-42c7-8af9-3fd4c87e6516)
