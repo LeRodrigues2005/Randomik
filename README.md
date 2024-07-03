@@ -30,4 +30,9 @@ Enjoy playing!
   </tr>
 </table>
 
-https://www.instagram.com/leticia_rodrigues2005/
+<table>
+  <tr>
+    <td><img loading="lazy" src="https://github.com/LeRodrigues2005/Randomik/assets/97632543/3615a9d2-87a2-4e68-bf74-ad8c652c3f69" width="40" height="40"/></td>
+    <td style="vertical-align: middle;"> <a href="[https://www.linkedin.com/in/letícia-rodrigues-a75134254/](https://www.instagram.com/leticia_rodrigues2005/)">https://www.linkedin.com/in/letícia-rodrigues-a75134254/</a> </td>
+  </tr>
+</table>
