@@ -22,6 +22,3 @@ However, this will not prevent the game from running correctly.
 Enjoy playing!
 
 ## Folow me
-
-![image](https://github.com/LeRodrigues2005/Randomik/assets/97632543/7fec67ac-5788-46ca-ae1f-9eeba657a74f)
-
