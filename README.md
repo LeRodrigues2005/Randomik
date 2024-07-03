@@ -23,6 +23,11 @@ Enjoy playing!
 
 ## Folow me
 
-<img loading="lazy" src="https://github.com/LeRodrigues2005/Randomik/assets/97632543/2596913e-d7ec-4164-83b8-3d7bd357242d" width="40" height="40"/>  https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+<table>
+  <tr>
+    <td><img loading="lazy" src="https://github.com/LeRodrigues2005/Randomik/assets/97632543/2596913e-d7ec-4164-83b8-3d7bd357242d" width="40" height="40"/></td>
+    <td style="vertical-align: middle;"> <a href="https://www.linkedin.com/in/letícia-rodrigues-a75134254/">https://www.linkedin.com/in/letícia-rodrigues-a75134254/</a> </td>
+  </tr>
+</table>
 
 https://www.instagram.com/leticia_rodrigues2005/
