@@ -22,3 +22,6 @@ However, this will not prevent the game from running correctly.
 Enjoy playing!
 
 ## Folow me
+
+https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+https://www.instagram.com/leticia_rodrigues2005/
