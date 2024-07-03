@@ -1,0 +1,15 @@
+C:\INFORMATIC\C#\LittleProjects\Randomik\bin\Debug\net8.0\Randomik.exe
+C:\INFORMATIC\C#\LittleProjects\Randomik\bin\Debug\net8.0\Randomik.deps.json
+C:\INFORMATIC\C#\LittleProjects\Randomik\bin\Debug\net8.0\Randomik.runtimeconfig.json
+C:\INFORMATIC\C#\LittleProjects\Randomik\bin\Debug\net8.0\Randomik.dll
+C:\INFORMATIC\C#\LittleProjects\Randomik\bin\Debug\net8.0\Randomik.pdb
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.AssemblyInfoInputs.cache
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.AssemblyInfo.cs
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.csproj.CoreCompileInputs.cache
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.sourcelink.json
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.dll
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\refint\Randomik.dll
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.pdb
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\Randomik.genruntimeconfig.cache
+C:\INFORMATIC\C#\LittleProjects\Randomik\obj\Debug\net8.0\ref\Randomik.dll
